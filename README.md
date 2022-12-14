@@ -11,7 +11,7 @@
  
  <img src="https://static.tildacdn.com/tild6136-6163-4338-b963-633534396630/425-4252314_free-png.png" width="15"> Site Parsing with BeautifulSoup/Selenium
  
- <img src="https://avatars.githubusercontent.com/u/22441832?v=4" width="15"> Telegram-bot development with pyTelegramBotAPI
+ <img src="https://avatars.githubusercontent.com/u/22441832?v=4" width="15"> Telegram-bot development with own framework
 
 ---
 
