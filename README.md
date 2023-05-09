@@ -5,7 +5,7 @@
 
 ### :woman_technologist: About Me :
 
-<img src="https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon.png" width="15"> I am a Python Developer from Tyumen
+<img src="https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon.png" width="15"> I am a Python Developer from Astana
 
  <img src="https://koskomp.ru/wp-content/uploads/2015/11/Google-chrome.png" width="15"> Backend development via Flask/Django (also FastAPI, DRF, aiohttp)
   
