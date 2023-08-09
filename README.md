@@ -6,6 +6,6 @@
 ### :fire: My Stats :
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EluciferE&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EluciferE&theme=dark&exclude_days=Sun)](https://git.io/streak-stats)
 
 </div>
